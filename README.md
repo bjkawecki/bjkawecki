@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bjkawecki
+- 👀 I’m interested in educational software.
+- 🌱 I’m currently learning software development.
+- 💞️ I’m looking to collaborate on future projects to create the best educational software that is for everyone.
+- 📫 How to reach me? Here.
