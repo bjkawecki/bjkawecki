@@ -1,4 +1,4 @@
-# Hello there 👋
+# Welcome, friend 👋
 
 
 ## 🧑‍💻 I’m a Slavist from Germany and self taught developer.
