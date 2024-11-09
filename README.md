@@ -7,4 +7,4 @@
 
 Right now it's a beta version. Sign up and test for free, if you like.
 
-💬 Visit my website powered by GitHub Pages and Jekyll: <a target="_blank" rel="noopener noreferrer" href="https://bjoernkawecki.de">bjoernkawecki.de</a>, where I (sometimes) share some thought I have.
+💬 Visit my website at <a target="_blank" rel="noopener noreferrer" href="https://bjoernkawecki.de">bjoernkawecki.de</a>, where I (sometimes) share some thought I have.
