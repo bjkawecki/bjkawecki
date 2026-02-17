@@ -1,5 +1,7 @@
 # Hi, my name is Björn
-Russicist and web developer based in Berlin.
+I'm a Russicist and web developer based in Berlin. I studied Russian language, literature, and linguistics, and later shifted into software development.
+
+My goal is to combine linguistics, pedagogy, and digital technology.
 
 In my free time, I build digital tools for language learning and write about Russian, educational technology, and effective learning systems.
 
