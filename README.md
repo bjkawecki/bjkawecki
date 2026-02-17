@@ -1,7 +1,7 @@
 # Hi, my name is Björn
 I'm a Russicist and web developer based in Berlin. My website: <a target="_blank" rel="noopener noreferrer" href="https://bjoernkawecki.de">bjoernkawecki.de</a>
 
-On my blog <a target="_blank" rel="noopener noreferrer" href="https://blog.filingo.app">blog.filingo.app</a> I write about learning Russian, and digital pedagogy
+On my blog <a target="_blank" rel="noopener noreferrer" href="https://blog.filingo.app">blog.filingo.app</a> I write about learning Russian and digital didactics.
 
 ## Latest posts
 
