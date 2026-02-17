@@ -3,8 +3,6 @@ I'm a Russicist and web developer based in Berlin. I studied Russian language, l
 
 My goal is to combine linguistics, pedagogy, and digital technology.
 
-In my free time, I build digital tools for language learning and write about Russian, educational technology, and effective learning systems.
-
 🌐 Website: <a target="_blank" rel="noopener noreferrer" href="https://bjoernkawecki.de">bjoernkawecki.de</a>
 
 ✍️ Blog: <a target="_blank" rel="noopener noreferrer" href="https://blog.filingo.app">blog.filingo.app</a>
